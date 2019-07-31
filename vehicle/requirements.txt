@@ -1,0 +1,7 @@
+Flask
+flask_restful
+SQLAlchemy
+voluptuous
+Flask-SQLAlchemy
+psycopg2
+requests
